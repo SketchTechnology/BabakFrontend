@@ -4158,7 +4158,7 @@ body,
 }
 
 .accordion .card-header h4.collapsed:after {
-  content: "\f105";
+  content: "\f104";
   font-weight: 600;
   color: #999999;
 }
