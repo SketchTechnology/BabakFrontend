@@ -736,11 +736,11 @@ input {
 
 .bg-gradient {
   background: #27B06F;
-  background: linear-gradient(
+  /* background: linear-gradient(
     90deg,
     rgba(0, 16, 45, 1) 0%,
     rgba(0, 89, 252, 1) 56%
-  );
+  ); */
 }
 
 .btn-theme {
@@ -4676,7 +4676,7 @@ body,
   background: rgba(8, 106, 216, 0.1);
   text-align: center;
   border-radius: 50%;
-  color: rgba(8, 106, 216, 1);
+  /* color: rgba(8, 106, 216, 1); */
   font-size: 12px;
 }
 
@@ -6873,11 +6873,7 @@ ul.pagination {
 }
 
 .contact-area .content form button {
-  background: linear-gradient(
-    90deg,
-    rgb(15 80 197) 0%,
-    rgba(0, 89, 252, 1) 56%
-  );
+  background-color: #27B06F;
   color: #ffffff;
   font-weight: 600;
   padding: 15px 35px;
@@ -7076,17 +7072,18 @@ footer.bg-dark .footer-top .footer-top-content ul li a:hover {
 }
 
 .footer-top .footer-top-content form button {
-  background: linear-gradient(
+  /* background: linear-gradient(
     90deg,
     rgb(15 80 197) 0%,
     rgba(0, 89, 252, 1) 56%
-  );
+  ); */
+
   position: absolute;
   right: 5px;
   top: 5px;
   min-height: 50px;
   width: 50px;
-  color: #ffffff;
+  color: #27B06F;
   border-radius: 50%;
 }
 
