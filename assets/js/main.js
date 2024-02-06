@@ -1,7 +1,7 @@
 /* ===================================================================
     
     Author          : Valid Theme
-    Template Name   : Solion - IT Solutions Template
+    Template Name   : Babak
     Version         : 1.0
     
 * ================================================================= */
