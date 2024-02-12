@@ -3743,7 +3743,7 @@ body,
   content: "";
   height: 100%;
   width: 100%;
-  background: url(assets/img/shape/9.png);
+  /* background: url(assets/img/shape/9.png); */
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
