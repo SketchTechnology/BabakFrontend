@@ -736,12 +736,12 @@ input {
 
 .bg-gradient {
   background: #27B06F;
-  /* background: linear-gradient(
+  background: linear-gradient(
     90deg,
     rgba(0, 16, 45, 1) 0%,
     rgba(27, 163, 156,1)
 
-  ); */
+  );
 }
 
 .btn-theme {
@@ -4534,7 +4534,7 @@ body,
     margin-top: 0;
 }
 
-.process-standard-area .single-item::after {
+/* .process-standard-area .single-item::after {
     margin-left: -50px;
     position: absolute;
     left: 100%;
@@ -4546,9 +4546,9 @@ body,
     background-size: contain;
     background-repeat: no-repeat;
     background-position: left top;
-    transform: rotate(11deg);
+    transform: rotate(190deg);
     opacity: 0.15;
-}
+} */
 
 .process-standard-area .single-item:last-child::after {
     display: none;
