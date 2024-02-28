@@ -4362,11 +4362,11 @@ body,
   top: 50%;
   content: "";
   height: 200px;
-  width: 200px;
-  background: url(assets/img/shape/10.png);
+  width: 400px;
+
   z-index: -1;
   transform: translateY(-50%);
-  opacity: 0.5;
+  opacity: 0.9;
   background-size: contain;
   background-position: center;
 }
